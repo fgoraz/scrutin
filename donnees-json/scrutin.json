@@ -1,11 +1,11 @@
 {
-  "books": 
+  "electeurs": 
   {
-  "roman": [
+  "1": [
     
     {
       "id": 1,
-      "bvote": "roman",
+      "bvote": "1",
       "nom": "À la recherche de elgor",
       "adresse": "elgor",
       "zone": "Hellow Proust",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "bvote": "roman",
+      "bvote": "1",
       "nom": "Ainsi va la vie",
       "adresse": "Marcel",
       "zone": "un long fleuve tranquille",
@@ -22,11 +22,11 @@
       "sexe": "1945"
     }
   ],
-  "fable": [
+  "2": [
   
     {
       "id": 3,
-      "bvote": "fable",
+      "bvote": "2",
       "nom": "Bravo Paris",
       "adresse": "elgor",
       "zone": "Dakar à Sénégal",
@@ -34,10 +34,10 @@
       "sexe": "1982"
     }
   ],
-  "poesie": [
+  "3": [
   
     {
-      "id": 4,
+      "id": 3,
       "bvote": "poesie",
       "nom": "Lyre à convention",
       "adresse": "Conte de Lysle",
@@ -46,11 +46,11 @@
       "sexe": "1677"
     }
   ],
-  "theatre": [
+  "4": [
   
     {
       "id": 5,
-      "bvote": "theatre",
+      "bvote": "4",
       "nom": "le malade imaginaire",
       "adresse": "molière",
       "zone": "gargantua",
