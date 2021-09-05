@@ -108,27 +108,6 @@
       "editor": "ouest france",
       "year": "1684"
     }
-  ],
-  "theatre": [
-  
-    {
-      "id": 12,
-      "kindof": "theatre",
-      "title": "le malade imaginaire",
-      "author": "molière",
-      "resume": "gargantua",
-      "editor": "gazette",
-      "year": "1677"
-    },
-    {
-      "id": 13,
-      "kindof": "theatre",
-      "title": "william tell overture",
-      "author": "rossini",
-      "resume": "classical music",
-      "editor": "east side",
-      "year": "1587"
-    }
   ]
  }
 }
