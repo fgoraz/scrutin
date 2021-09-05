@@ -5,12 +5,12 @@
     
     {
       "id": 1,
-      "bvote": "1",
-      "nom": "À la recherche de elgor",
-      "adresse": "elgor",
-      "zone": "Hellow Proust",
-      "tel": "Bernard Grasset et Gallimard",
-      "sexe": "1984"
+      "bvote": "bureau 1",
+      "nom": "Elhadji Gora SIDIBÉ",
+      "adresse": "hlm las palmas",
+      "zone": "13",
+      "tel": "773107628",
+      "sexe": "M"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
   
     {
       "id": 3,
-      "bvote": "2",
+      "bvote": "bureau 2",
       "nom": "Bravo Paris",
       "adresse": "elgor",
       "zone": "Dakar à Sénégal",
@@ -38,7 +38,7 @@
   
     {
       "id": 4,
-      "bvote": "3",
+      "bvote": "bureau 3",
       "nom": "Lyre à convention",
       "adresse": "Conte de Lysle",
       "zone": "Les fibres même du coeur",
@@ -50,7 +50,7 @@
   
     {
       "id": 5,
-      "bvote": "4",
+      "bvote": "bureau 4",
       "nom": "le malade imaginaire",
       "adresse": "molière",
       "zone": "gargantua",
