@@ -5,7 +5,7 @@
     
     {
       "id": 1,
-      "cvote": "roman",
+      "bvote": "roman",
       "nom": "À la recherche de elgor",
       "adresse": "elgor",
       "zone": "Hellow Proust",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "cvote": "roman",
+      "bvote": "roman",
       "nom": "Ainsi va la vie",
       "adresse": "Marcel",
       "zone": "un long fleuve tranquille",
@@ -26,7 +26,7 @@
   
     {
       "id": 3,
-      "cvote": "fable",
+      "bvote": "fable",
       "nom": "Bravo Paris",
       "adresse": "elgor",
       "zone": "Dakar à Sénégal",
@@ -38,7 +38,7 @@
   
     {
       "id": 4,
-      "cvote": "poesie",
+      "bvote": "poesie",
       "nom": "Lyre à convention",
       "adresse": "Conte de Lysle",
       "zone": "Les fibres même du coeur",
@@ -50,7 +50,7 @@
   
     {
       "id": 5,
-      "cvote": "theatre",
+      "bvote": "theatre",
       "nom": "le malade imaginaire",
       "adresse": "molière",
       "zone": "gargantua",
