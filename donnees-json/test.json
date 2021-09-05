@@ -108,6 +108,18 @@
       "editor": "ouest france",
       "year": "1684"
     }
+  ],
+  "theatre": [
+  
+    {
+      "id": 12,
+      "kindof": "poesie",
+      "title": "Lyre à convention",
+      "author": "Conte de Lysle",
+      "resume": "Les fibres même du coeur",
+      "editor": "Ile de France",
+      "year": "1677"
+    }
   ]
  }
 }
