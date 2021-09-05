@@ -1,0 +1,56 @@
+{
+  "electeurs": 
+  {
+  "cv1": [
+    
+    {
+      "id": 1,
+      "cvote": "cv1",
+      "nom": "Elgor",
+      "adr": "state gate",
+      "zone": "B13",
+      "tel": "773107628",
+      "sexe": "M",
+	  "edu": "BAC+4",
+	  "prof": "developpeur",
+	  "nin": "1765198400429",
+	  "nel": "132849752",
+      "bvote": "13",
+      "statut": "grand electeur"
+    },
+    {
+      "id": 2,
+      "cvote": "cv1",
+      "nom": "thomas",
+      "adr": "fith mith",
+      "zone": "B1",
+      "tel": "773107622",
+      "sexe": "M",
+	  "edu": "BAC+2",
+	  "prof": "ouvrier",
+	  "nin": "1765198400429",
+	  "nel": "132849752",
+      "bvote": "12",
+      "statut": "militant"
+    }
+  ],
+  "cv2": [
+  
+    {
+      "id": 3,
+      "cvote": "cv2",
+      "nom": "amstrong",
+      "adr": "hamo 1",
+      "zone": "B15",
+      "tel": "773107627",
+      "sexe": "M",
+	  "edu": "BAC+3",
+	  "prof": "comptable",
+	  "nin": "1765198400429",
+	  "nel": "132849752",
+      "bvote": "18",
+      "statut": "sympathisant"
+    }
+   ]
+ }
+}

@@ -1,56 +1,134 @@
 {
-  "electeurs": 
+  "books": 
   {
-  "cv1": [
+  "roman": [
     
     {
       "id": 1,
-      "cvote": "cv1",
-      "nom": "Elgor",
-      "adr": "state gate",
-      "zone": "B13",
-      "tel": "773107628",
-      "sexe": "M",
-	  "edu": "BAC+4",
-	  "prof": "developpeur",
-	  "nin": "1765198400429",
-	  "nel": "132849752",
-      "bvote": "13",
-      "statut": "grand electeur"
+      "kindof": "roman",
+      "title": "À la recherche de elgor",
+      "author": "elgor",
+      "resume": "Hellow Proust",
+      "editor": "Bernard Grasset et Gallimard",
+      "year": "1984"
     },
     {
       "id": 2,
-      "cvote": "cv1",
-      "nom": "thomas",
-      "adr": "fith mith",
-      "zone": "B1",
-      "tel": "773107622",
-      "sexe": "M",
-	  "edu": "BAC+2",
-	  "prof": "ouvrier",
-	  "nin": "1765198400429",
-	  "nel": "132849752",
-      "bvote": "12",
-      "statut": "militant"
-    }
-  ],
-  "cv2": [
-  
+      "kindof": "roman",
+      "title": "À la demeure de mon ex",
+      "author": "Marcel Proust",
+      "resume": "Hellow Proust",
+      "editor": "Fgoraz",
+      "year": "2007"
+    },
     {
       "id": 3,
-      "cvote": "cv2",
-      "nom": "amstrong",
-      "adr": "hamo 1",
-      "zone": "B15",
-      "tel": "773107627",
-      "sexe": "M",
-	  "edu": "BAC+3",
-	  "prof": "comptable",
-	  "nin": "1765198400429",
-	  "nel": "132849752",
-      "bvote": "18",
-      "statut": "sympathisant"
+      "kindof": "roman",
+      "title": "ça marche tu crois ?",
+      "author": "V. Hugo",
+      "resume": "Hellow Victor",
+      "editor": "Bernard",
+      "year": "1927"
+    },
+    {
+      "id": 4,
+      "kindof": "roman",
+      "title": "Voilà Marseille Proust",
+      "author": "Hein Proust",
+      "resume": "Hellow Proust",
+      "editor": "Alizee",
+      "year": "1913-1927"
+    },
+    {
+      "id": 5,
+      "kindof": "roman",
+      "title": "Une si longue lettre",
+      "author": "Mariama Bâ",
+      "resume": "Mariama dans sa gloire",
+      "editor": "Gorée",
+      "year": "1985"
+    },
+    {
+      "id": 6,
+      "kindof": "roman",
+      "title": "Ainsi va la vie",
+      "author": "Marcel",
+      "resume": "un long fleuve tranquille",
+      "editor": "Gaumont",
+      "year": "1945"
     }
-   ]
+  ],
+  "fable": [
+  
+    {
+      "id": 7,
+      "kindof": "fable",
+      "title": "Bravo Paris",
+      "author": "elgor",
+      "resume": "Dakar à Sénégal",
+      "editor": "TFM",
+      "year": "1982"
+    },
+    {
+      "id": 8,
+      "kindof": "fable",
+      "title": "Nuit de Sine",
+      "author": "Senghor du Sénégal",
+      "resume": "L. S. Senghor",
+      "editor": "Sen TV",
+      "year": "1913-1927"
+    },
+    {
+      "id": 9,
+      "kindof": "fable",
+      "title": "Pierre et le loup",
+      "author": "Esope",
+      "resume": "Esope the greatest",
+      "editor": "Greek Editor",
+      "year": "1254"
+    }
+  ],
+  "poesie": [
+  
+    {
+      "id": 10,
+      "kindof": "poesie",
+      "title": "Lyre à convention",
+      "author": "Conte de Lysle",
+      "resume": "Les fibres même du coeur",
+      "editor": "Ile de France",
+      "year": "1677"
+    },
+    {
+      "id": 11,
+      "kindof": "poesie",
+      "title": "le tour du monde",
+      "author": "jules vernes",
+      "resume": "philleas frog",
+      "editor": "ouest france",
+      "year": "1684"
+    }
+  ],
+  "theatre": [
+  
+    {
+      "id": 12,
+      "kindof": "theatre",
+      "title": "le malade imaginaire",
+      "author": "molière",
+      "resume": "gargantua",
+      "editor": "gazette",
+      "year": "1677"
+    },
+    {
+      "id": 13,
+      "kindof": "theatre",
+      "title": "william tell overture",
+      "author": "rossini",
+      "resume": "classical music",
+      "editor": "east side",
+      "year": "1587"
+    }
+  ]
  }
 }
