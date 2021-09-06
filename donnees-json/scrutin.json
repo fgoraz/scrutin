@@ -5,7 +5,7 @@
     
     {
       "id": 1,
-      "bvote": "bureau 1",
+      "bvote": "1",
       "nom": "Elhadji Gora SIDIBÉ",
       "adresse": "hlm las palmas",
       "zone": "13",
@@ -26,7 +26,7 @@
   
     {
       "id": 3,
-      "bvote": "bureau 2",
+      "bvote": "2",
       "nom": "Bravo Paris",
       "adresse": "elgor",
       "zone": "Dakar à Sénégal",
@@ -38,7 +38,7 @@
   
     {
       "id": 4,
-      "bvote": "bureau 3",
+      "bvote": "3",
       "nom": "Lyre à convention",
       "adresse": "Conte de Lysle",
       "zone": "Les fibres même du coeur",
@@ -50,7 +50,7 @@
   
     {
       "id": 5,
-      "bvote": "bureau 4",
+      "bvote": "4",
       "nom": "le malade imaginaire",
       "adresse": "molière",
       "zone": "gargantua",
