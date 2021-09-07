@@ -1,7 +1,15 @@
 {
+  
+  "centre":
   {
-  "c1":"ELGOR"
+    "c": [  
+	
+	{
+      "c1":"ELGOR"
+	}  
+   ]
   },
+	
   "electeurs": 
   {
   "1": [
