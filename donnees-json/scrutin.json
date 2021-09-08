@@ -11,7 +11,9 @@
       "adresse": "hlm las palmas",
       "zone": "banlieue 13",
       "tel": "773107628",
-      "sexe": "M"
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"informaticien"
     },
     {
       "id": 2,
@@ -20,7 +22,9 @@
       "adresse": "wakhinan nimzatt",
       "zone": "banlieue 13",
       "tel": "776342330",
-      "sexe": "M"
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"comptable"
     }
   ],
   "b2": [
@@ -32,7 +36,9 @@
       "adresse": "golf sud",
       "zone": "12",
       "tel": "vide",
-      "sexe": "vide"
+      "sexe": "vide",
+	  "edu":"BAC+5",
+	  "prof":"entrepreneur"
     }
   ],
   "b3": [
@@ -44,7 +50,9 @@
       "adresse": "fith mith",
       "zone": "08",
       "tel": "vide",
-      "sexe": "vide"
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":""
     }
   ],
   "b4": [
@@ -56,7 +64,9 @@
       "adresse": "hamo 1",
       "zone": "06",
       "tel": "vide",
-      "sexe": "vide"
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":""
     }
   ]
  }
