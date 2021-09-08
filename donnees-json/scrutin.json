@@ -13,7 +13,11 @@
       "tel": "773107628",
       "sexe": "M",
 	  "edu":"BAC+4",
-	  "prof":"informaticien"
+	  "prof":"informaticien",
+	  "nin":"1765198400429",
+	  "nel":"100553204",
+	  "statut":"militant",
+	  "memo":"influenceur à suivre de près!"
     },
     {
       "id": 2,
@@ -24,7 +28,11 @@
       "tel": "776342330",
       "sexe": "M",
 	  "edu":"BAC+4",
-	  "prof":"comptable"
+	  "prof":"comptable",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
     }
   ],
   "b2": [
@@ -38,7 +46,11 @@
       "tel": "vide",
       "sexe": "vide",
 	  "edu":"BAC+5",
-	  "prof":"entrepreneur"
+	  "prof":"entrepreneur",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
     }
   ],
   "b3": [
@@ -52,7 +64,11 @@
       "tel": "vide",
       "sexe": "vide",
 	  "edu":"",
-	  "prof":""
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
     }
   ],
   "b4": [
@@ -66,7 +82,11 @@
       "tel": "vide",
       "sexe": "vide",
 	  "edu":"",
-	  "prof":""
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
     }
   ]
  }
