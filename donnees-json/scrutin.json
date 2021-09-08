@@ -11,16 +11,26 @@
       "adresse": "hlm las palmas",
       "zone": "13",
       "tel": "773107628",
-      "sexe": "M"
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"informaticien",
+	  "nin":"1765198400429",
+	  "nel":"100553204",
+	  "statut":"militant"
     },
     {
       "id": 2,
       "bvote": "1",
-      "nom": "Ainsi va la vie",
-      "adresse": "Marcel",
-      "zone": "un long fleuve tranquille",
-      "tel": "Gaumont",
-      "sexe": "1945"
+      "nom": "BA",
+      "adresse": "wakhinan nimzatt",
+      "zone": "",
+      "tel": "776342330",
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"comptable",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"grand electeur"
     }
   ],
   "2": [
@@ -28,11 +38,16 @@
     {
       "id": 3,
       "bvote": "2",
-      "nom": "Bravo Paris",
-      "adresse": "elgor",
-      "zone": "Dakar à Sénégal",
-      "tel": "TFM",
-      "sexe": "1982"
+      "nom": "alpha",
+      "adresse": "golf sud",
+      "zone": "12",
+      "tel": "",
+      "sexe": "",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":""
     }
   ],
   "3": [
@@ -40,11 +55,16 @@
     {
       "id": 4,
       "bvote": "3",
-      "nom": "Lyre à convention",
-      "adresse": "Conte de Lysle",
-      "zone": "Les fibres même du coeur",
-      "tel": "Ile de France",
-      "sexe": "1677"
+      "nom": "beta",
+      "adresse": "fith mith",
+      "zone": "08",
+      "tel": "",
+      "sexe": "",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":""
     }
   ],
   "4": [
@@ -52,11 +72,16 @@
     {
       "id": 5,
       "bvote": "4",
-      "nom": "le malade imaginaire",
-      "adresse": "molière",
-      "zone": "gargantua",
-      "tel": "gazette",
-      "sexe": "1677"
+      "nom": "gamma",
+      "adresse": "hamo 1",
+      "zone": "06",
+      "tel": "",
+      "sexe": "",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":""
     }
   ]
  }
