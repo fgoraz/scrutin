@@ -47,10 +47,10 @@
       "sexe": "vide",
 	  "edu":"BAC+5",
 	  "prof":"entrepreneur",
-	  "nin":"",
-	  "nel":"",
-	  "statut":"",
-	  "memo":""
+	  "nin":"vide",
+	  "nel":"vide",
+	  "statut":"vide",
+	  "memo":"vide"
     }
   ],
   "b3": [
