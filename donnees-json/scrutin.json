@@ -6,7 +6,7 @@
     
     {
       "id": 1,
-      "bvote": "b1",
+      "bvote": "1",
       "nom": "Elhadji Gora SIDIBÉ",
       "adresse": "hlm las palmas",
       "zone": "banlieue 13",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "bvote": "b1",
+      "bvote": "1",
       "nom": "Amadou BÂ",
       "adresse": "wakhinan nimzatt",
       "zone": "banlieue 13",
@@ -27,7 +27,7 @@
   
     {
       "id": 3,
-      "bvote": "b2",
+      "bvote": "2",
       "nom": "alpha",
       "adresse": "golf sud",
       "zone": "12",
@@ -39,7 +39,7 @@
   
     {
       "id": 4,
-      "bvote": "b3",
+      "bvote": "3",
       "nom": "beta",
       "adresse": "fith mith",
       "zone": "08",
@@ -51,7 +51,7 @@
   
     {
       "id": 5,
-      "bvote": "b4",
+      "bvote": "4",
       "nom": "gamma",
       "adresse": "hamo 1",
       "zone": "06",
