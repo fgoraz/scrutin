@@ -1,0 +1,93 @@
+{
+  	
+  "electeurs": 
+  {
+  "1": [
+    
+    {
+      "id": 1,
+      "bvote": "1",
+      "nom": "Tom Elvis JEDUSOR",
+      "adresse": "hlm las palmas",
+      "zone": "banlieue 13",
+      "tel": "773107628",
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"informaticien",
+	  "nin":"1765198400429",
+	  "nel":"100553204",
+	  "statut":"militant",
+	  "memo":"influenceur à suivre de près!"
+    },
+    {
+      "id": 2,
+      "bvote": "1",
+      "nom": "LAMBDA",
+      "adresse": "wakhinan nimzatt",
+      "zone": "banlieue 13",
+      "tel": "776342330",
+      "sexe": "M",
+	  "edu":"BAC+4",
+	  "prof":"comptable",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
+  ],
+  "2": [
+  
+    {
+      "id": 3,
+      "bvote": "2",
+      "nom": "ALPHA",
+      "adresse": "golf sud",
+      "zone": "12",
+      "tel": "vide",
+      "sexe": "vide",
+	  "edu":"BAC+5",
+	  "prof":"entrepreneur",
+	  "nin":"vide",
+	  "nel":"vide",
+	  "statut":"vide",
+	  "memo":"vide"
+    }
+  ],
+  "3": [
+  
+    {
+      "id": 4,
+      "bvote": "3",
+      "nom": "BETA",
+      "adresse": "fith mith",
+      "zone": "08",
+      "tel": "vide",
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
+  ],
+  "4": [
+  
+    {
+      "id": 5,
+      "bvote": "4",
+      "nom": "GAMA",
+      "adresse": "hamo 1",
+      "zone": "06",
+      "tel": "vide",
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
+  ]
+ }
+}
