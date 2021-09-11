@@ -88,6 +88,42 @@
 	  "statut":"",
 	  "memo":""
     }
+  ],
+  "5": [
+  
+    {
+      "id": 6,
+      "bvote": "5",
+      "nom": "",
+      "adresse": "",
+      "zone": "",
+      "tel": "",
+      "sexe": "",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
+  ],
+  "6": [
+  
+    {
+      "id": 7,
+      "bvote": "6",
+      "nom": "",
+      "adresse": "",
+      "zone": "",
+      "tel": "",
+      "sexe": "",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
   ]
  }
 }

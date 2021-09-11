@@ -88,6 +88,42 @@
 	  "statut":"",
 	  "memo":""
     }
+  ],
+  "5": [
+  
+    {
+      "id": 6,
+      "bvote": "5",
+      "nom": "gamma",
+      "adresse": "hamo 1",
+      "zone": "06",
+      "tel": "vide",
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
+  ],
+  "6": [
+  
+    {
+      "id": 7,
+      "bvote": "6",
+      "nom": "gamma",
+      "adresse": "hamo 1",
+      "zone": "06",
+      "tel": "vide",
+      "sexe": "vide",
+	  "edu":"",
+	  "prof":"",
+	  "nin":"",
+	  "nel":"",
+	  "statut":"",
+	  "memo":""
+    }
   ]
  }
 }
