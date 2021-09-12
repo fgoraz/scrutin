@@ -3,10 +3,10 @@
         {
                 "pseudo": "f",
                 "pwsd": ""            
-        }
-        ],
+        },
 		{
                 "pseudo": "amstrong",
                 "pwsd": "hello"            
         }
+	]
 } 
