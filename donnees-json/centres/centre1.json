@@ -109,21 +109,7 @@
   ],
   "6": [
   
-    {
-      "id": 7,
-      "bvote": "6",
-      "nom": "EPSILON",
-      "adresse": "hamo 1",
-      "zone": "06",
-      "tel": "vide",
-      "sexe": "vide",
-	  "edu":"",
-	  "prof":"",
-	  "nin":"",
-	  "nel":"",
-	  "statut":"",
-	  "memo":""
-    }
+    
   ]
  }
 }
