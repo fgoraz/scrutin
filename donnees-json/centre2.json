@@ -17,7 +17,7 @@
 	  "nin":"1765198400429",
 	  "nel":"100553204",
 	  "statut":"militant",
-	  "memo":"influenceur à suivre de près!"
+	  "memo":"influenceur à suivre de très près!"
     },
     {
       "id": 2,
@@ -76,7 +76,7 @@
     {
       "id": 5,
       "bvote": "4",
-      "nom": "GAMA",
+      "nom": "GAMMA",
       "adresse": "hamo 1",
       "zone": "06",
       "tel": "vide",
@@ -92,8 +92,8 @@
   "5": [
   
     {
-      "id": 6,
-      "bvote": "5",
+      "id": "",
+      "bvote": "",
       "nom": "",
       "adresse": "",
       "zone": "",
@@ -110,8 +110,8 @@
   "6": [
   
     {
-      "id": 7,
-      "bvote": "6",
+      "id": "",
+      "bvote": "",
       "nom": "",
       "adresse": "",
       "zone": "",
