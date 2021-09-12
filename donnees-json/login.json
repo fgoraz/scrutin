@@ -1,8 +1,12 @@
 {
     "users": [
         {
-                "email": "elgor",
-                "pwsd": "passer"            
+                "pseudo": "f",
+                "pwsd": ""            
         }
-        ]
+        ],
+		{
+                "pseudo": "amstrong",
+                "pwsd": "hello"            
+        }
 } 
